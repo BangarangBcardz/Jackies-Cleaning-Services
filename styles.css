@@ -5,6 +5,12 @@
   box-sizing: border-box;
 }
 
+/* Removes underline in all states */
+a, a:link, a:visited, a:hover, a:active {
+  text-decoration: none !important;
+  color: rgba(244, 235, 208, 0.6); /* Slightly transparent Warm Beige */		
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   background: #0D1B2A; /* Navy Night (darker than original) */  
