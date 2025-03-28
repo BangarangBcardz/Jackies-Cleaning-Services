@@ -110,8 +110,9 @@ footer {
     font-size: 1rem; /* Larger font for tablets and desktops */
   }
 
-  footer {
-    color: rgba(229, 229, 229, 0.6); /* Subtle Stone Grey */
+  .Footer {
+	font-size: 0.8rem; /* Smaller font for mobile */
+	color: rgba(244, 235, 208, 0.6); /* Slightly transparent Warm Beige */
   }
 }
 
