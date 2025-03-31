@@ -1,6 +1,6 @@
 document.getElementById('save-contact').addEventListener('click', async function() {
   const contact = {
-    name: 'Louis Swart',
+    name: 'Jackies Cleaning Services',
     business: 'Jackies Cleaning Services',
     mobile: '+27723747478', // Removed spaces for better compatibility
     email: 'info@jackies.co.za',
